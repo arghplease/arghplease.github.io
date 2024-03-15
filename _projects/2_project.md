@@ -13,10 +13,9 @@ I've always been someone interersted in seeing how novel technology is used with
 Here's a demo where the model generates progressively more dissonant harmonizations of a melody by changing the "temperature" value, a common parameter in machine learning that in this case equates to lower temperature values yielding more boring, conventional harmonies and higher values yielding more dissonant but potentially more interesting possibilities for composers and musicians. 
 
 
-<video width="640" height="480" controls>
-  <source src=="arghplease.github.io/assets/video/pexels-engin-akyurt-6069112-960x540-30fps.mp4" type="video/mp4">
- Error
-</video>
+<iframe width="640" height="480"
+src="https://youtu.be/bnd53gVVSGk">
+</iframe>
 
 Code here: 
 
