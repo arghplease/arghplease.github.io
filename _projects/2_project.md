@@ -14,7 +14,7 @@ Here's a demo where the model generates progressively more dissonant harmonizati
 
 
 <video width="640" height="480" controls>
-  <source src=="assets/video/HarmMachineDemo.mp4" type="video/mp4">
+  <source src=="arghplease.github.io/assets/video/pexels-engin-akyurt-6069112-960x540-30fps.mp4" type="video/mp4">
  Error
 </video>
 
