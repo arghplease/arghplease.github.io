@@ -14,7 +14,7 @@ Here's a demo where the model generates progressively more dissonant harmonizati
 
 
 <iframe width="640" height="480"
-src="https://youtu.be/bnd53gVVSGk">
+src="https://youtu.be/embed/bnd53gVVSGk">
 </iframe>
 
 Code here: 
