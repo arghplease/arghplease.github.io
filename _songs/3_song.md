@@ -1,23 +1,41 @@
 ---
 layout: page
-title: with tender majesty, for alo, harmonizer, and electric bass
-img: assets/img/nighttime_painting.jpeg
-importance: 2
+title: where never moon shall sway, for orchestra
+img: assets/img/painting_dali.jpeg
+importance: 1
 category: work
 ---
 
-The most fundamental question that underlies all my pursuits, whether they be technical or artistic, is exploring how technology will shape the way art is made. Just a hundred years ago, for example, many of the now essential tools of modern music-making, like the DAW, the recording studio, and the sampler, simply did not exist, and their introduction profoundly shaped the creative processes of many artists since. 
+O years!  and age!  farewell:
+
+Behold I go,
+
+Where I do know
+
+Infinity to dwell.
+
+And these mine eyes shall see
+
+All times, how they
+
+Are lost i' th' sea
+
+Of vast eternity:—
+
+Where never moon shall sway
+
+The stars; but she,
+
+And night, shall be
+
+Drown'd in one endless day.
+
+-Eternity, Robert Herrick  
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1772664777&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/antonis-christou-813126471" title="Antonis Christou" target="_blank" style="color: #cccccc; text-decoration: none;">Antonis Christou</a> · <a href="https://soundcloud.com/antonis-christou-813126471/where-never-moon-shall-sway-for-orchestra" title="where never moon shall sway for orchestra (excerpts)" target="_blank" style="color: #cccccc; text-decoration: none;">where never moon shall sway for orchestra (excerpts)</a></div>
 
 
-<i>with tender majesty<\i> is one such experiment in updating old forms with modern technologies. I initially pitched the piece as a sort of “art song of the future” - a fusion of old with new via the use of electronics, which here take the form of a harmonizer and electric bass. This piece started as a purely acoustic duet so I could perform with a dear friend, but during the course of its composition I found myself adding more and more electronic elements until it arrived in its current form.
 
+Recorded in Spring 2024 by the Yale Symphony Orchestra
 
-The text is a contrapuntal poem, assembled from a number of works by Emily Dickinson. I was uninterested with the literal meaning of the texts at the time of their composition, and instead wanted to, much like the musical content itself, develop a new language of expression while also maintaining some tether to the past.
-
-
-<iframe target="_parent" width="640" height="480" src="https://www.youtube.com/watch?v=Pori4JcaYvU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
- 
-
-Eliza Kravitz - alto voice
-
-Antonis Christou - electric bass
+William Boughton, Conductor  

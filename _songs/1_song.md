@@ -1,41 +1,25 @@
 ---
 layout: page
-title: where never moon shall sway, for orchestra
-img: assets/img/painting_dali.jpeg
+title: quartet after escher
+img: assets/img/escher_pic.jpeg
 importance: 1
 category: work
 ---
 
-O years!  and age!  farewell:
+In physics, there exists a philosophical thought experiment known as the Boltzmann Brain. According to the theory, it is fully possible through the random fluctuations in the chaos of the universe for a seemingly sentient brain to miraculously come into existence, possessing memories and experiences that feel real to itself. In quartet after escher, I found myself intrigued by this notion of emergent complexity arising from random processes and wanted to sonify this concept into an electro-acoustic work. At the same time, I found myself ruminating on my life long love of the works of M.C Escher, who managed to embed deep truths on the nature of how our minds work within his art. The most primary electronic technique used throughout this work is granular synthesis, chosen because of how it, to me, seems as the most clear analog in sound of what it would mean to randomly scatter the particles of the world into a conscious entity as Boltzmann theorized, or construct realities that feel true, yet distort in unexpected ways, as Escher did.
 
-Behold I go,
 
-Where I do know
+The first movement is inspired by M.C Escher’s now famous woodcut, Drawing Hands, due to the way that recorded granulations from earlier parts of the piece eventually come to form the structure of later sections in granulated form. The second is based off of Still Life With Spherical Mirror. As in the original print, I was interested in exploring what happens when the most simple parts of reality are stretched and distorted far beyond their original form, containing some glimmer of what it once was, but transforming as well.
 
-Infinity to dwell.
 
-And these mine eyes shall see
-
-All times, how they
-
-Are lost i' th' sea
-
-Of vast eternity:—
-
-Where never moon shall sway
-
-The stars; but she,
-
-And night, shall be
-
-Drown'd in one endless day.
-
--Eternity, Robert Herrick  
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1772664777&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/antonis-christou-813126471" title="Antonis Christou" target="_blank" style="color: #cccccc; text-decoration: none;">Antonis Christou</a> · <a href="https://soundcloud.com/antonis-christou-813126471/where-never-moon-shall-sway-for-orchestra" title="where never moon shall sway for orchestra (excerpts)" target="_blank" style="color: #cccccc; text-decoration: none;">where never moon shall sway for orchestra (excerpts)</a></div>
+quartet after escher is dedicated to the musicians of its first performance - Audrey Wang, Phoebe Liu, Tobias Liu, and Christina Young.
 
 
 
-Recorded in Spring 2024 by the Yale Symphony Orchestra
+Score: 
 
-William Boughton, Conductor  
+
+Movement 2: 
+
+<iframe target="_parent" width="640" height="480" src="https://www.youtube.com/watch?v=M2CKtCx7wyc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
