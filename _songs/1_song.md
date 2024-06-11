@@ -21,5 +21,6 @@ Score:
 
 Movement 2: 
 
-<iframe target="_parent" width="640" height="480" src="https://www.youtube.com/watch?v=M2CKtCx7wyc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M2CKtCx7wyc?si=bZ8IJcyEdrr5q3zc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="700" height="480" src="https://www.youtube.com/embed/M2CKtCx7wyc?si=lC8FUdUthBRpl5Db" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

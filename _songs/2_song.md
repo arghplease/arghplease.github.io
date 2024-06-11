@@ -1,6 +1,6 @@
 ---
 layout: page
-title: with tender majesty, for alo, harmonizer, and electric bass
+title: with tender majesty, for alto, harmonizer, and electric bass
 img: assets/img/nighttime_painting.jpeg
 importance: 2
 category: work
@@ -15,7 +15,7 @@ The most fundamental question that underlies all my pursuits, whether they be te
 The text is a contrapuntal poem, assembled from a number of works by Emily Dickinson. I was uninterested with the literal meaning of the texts at the time of their composition, and instead wanted to, much like the musical content itself, develop a new language of expression while also maintaining some tether to the past.
 
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/Pori4JcaYvU?si=__mK4etjo2HQIm7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="700" height="480" src="https://www.youtube.com/embed/Pori4JcaYvU?si=__mK4etjo2HQIm7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
  
 
 Eliza Kravitz - alto voice
