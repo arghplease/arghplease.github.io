@@ -1,6 +1,6 @@
 ---
 layout: page
-title: songs
+title: music
 permalink: /songs/
 description: 
 nav: true
