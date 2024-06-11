@@ -6,7 +6,7 @@ subtitle: antonis.christou@yale.edu
 
 profile:
   align: right
-  image: antonis-profile.png
+  image: antonis-profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: false
 
