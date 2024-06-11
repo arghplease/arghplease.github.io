@@ -17,7 +17,7 @@ The fundamental tuning system at play here is various types of just intonation, 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/tuning_lattice.png" title="five_limit" class="img-fluid rounded z-depth-1" style="width: 50%;" %}
+        {% include figure.html path="assets/img/tuning_lattice.png" title="five_limit" class="img-fluid rounded z-depth-1" style="width: 20%;" %}
     </div>
 </div>
 

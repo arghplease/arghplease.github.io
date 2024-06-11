@@ -16,12 +16,11 @@ quartet after escher is dedicated to the musicians of its first performance - Au
 
 
 
-Score: 
+Full Score: 
 
 
 <iframe width="700" height="480" src="https://www.youtube.com/embed/BqoQrb3pziM?si=GN65Du05UtDroDpg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Movement 2: 
-
+Movement 2 Performance: 
 
 <iframe width="700" height="480" src="https://www.youtube.com/embed/M2CKtCx7wyc?si=lC8FUdUthBRpl5Db" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
