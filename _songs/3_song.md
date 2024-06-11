@@ -2,7 +2,7 @@
 layout: page
 title: where never moon shall sway, for orchestra
 img: assets/img/painting_dali.jpeg
-importance: 1
+importance: 3
 category: work
 ---
 
