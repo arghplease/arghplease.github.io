@@ -7,18 +7,27 @@ category: work
 ---
 
 O years!  and age!  farewell:
+
 Behold I go,
+
 Where I do know
+
 Infinity to dwell.
 
 And these mine eyes shall see
+
 All times, how they
+
 Are lost i' th' sea
+
 Of vast eternity:—
 
 Where never moon shall sway
+
 The stars; but she,
+
 And night, shall be
+
 Drown'd in one endless day.
 
 -Eternity, Robert Herrick  
@@ -28,4 +37,5 @@ Drown'd in one endless day.
 
 
 Recorded in Spring 2024 by the Yale Symphony Orchestra
+
 William Boughton, Conductor  
