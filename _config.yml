@@ -168,6 +168,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  songs:
+    output: true
+    permalink: /songs/:path/
 
 announcements:
   enabled: true
