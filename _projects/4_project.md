@@ -7,7 +7,7 @@ category: work
 ---
 "Limit 21.5" is an arcade game, as well as instrument created to explore my interest in combining complex musical output with simple, game-ified interfaces. In this case, I wanted to create an instrument that allowed me to write music I could never write before, and specifically I sought to create a conduit for my ideas about microtonality and alternate tuning systems that didn't require extensive theory knowledge or training to play. 
 
-div class="row">
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/limit_21.5.gif" title="limit_gif" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -15,7 +15,7 @@ div class="row">
 
 The fundamental tuning system at play here is various types of just intonation, in particular, 5 and 7 limit tunings. These systems are each perfected versions of our perpetually out of tune twelve tone equal temperament, and each construct their pitches using various multiples of factors up to 5 and 7, respectively. By arranging these pitches in a lattice, you can create a visual representation of these tuning systems, like this one below for 5-limit tuning: 
 
-div class="row">
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/5-limit-tuning.png" title="five_limit" class="img-fluid rounded z-depth-1" %}
     </div>
