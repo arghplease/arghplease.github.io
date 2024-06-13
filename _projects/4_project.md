@@ -28,4 +28,7 @@ With this tuning system in place, the musician plays by drawing shapes of 4 bloc
 
 After each shape is drawn, the musician has a few options for the next shape. Each shape after the first must either share one common block with a previous one, or be one of several transformations that the user has available. These transformations include translation, rotation, mirroring across the center line, as well as the ability to swap between 5 and 7 limit based tunings on the fly with the press of a button. These transformations were chosen for their musical potential: transformations of parallel shapes, for example, is similar to the idea of "planing" or parallel chord structures as commonly found in impressionistic music of the 19th and early 20th century. Similarly, the restriction of forcing one common tone allows the performer to modulate across odd microtonal tonalities while keeping one tone the same in a sort of pivot tone modulation. 
 
-As a composer, I wrote and performed a piece for my instrument, entitled, "The Well-tuned Arcade Machine", paying homage to the American composer La Monte Young, whose microtonal compositions were always a great inspiration to me.
+As a composer, I wrote and performed a piece for my instrument, entitled, "The Well-tuned Arcade Machine", paying homage to the American composer La Monte Young, whose microtonal compositions were always a great inspiration to me: 
+
+
+<iframe width="700" height="480" src="https://www.youtube.com/embed/kqwM5mZbqdU?si=5swEC7wzAeTl6bpo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
